@@ -1,0 +1,23 @@
+{
+  "weights": {
+    "behavior": 0.5,
+    "a11y": 0.2,
+    "typecheck": 0.15,
+    "lint": 0.1,
+    "size": 0.05
+  },
+  "caps": {
+    "behavior": 1,
+    "a11y": 1,
+    "typecheck": 1,
+    "lint": 1,
+    "size": 1
+  },
+  "impactWeights": {
+    "critical": 4,
+    "high": 3,
+    "medium": 2,
+    "low": 1
+  },
+  "bootstrapSeed": 2026
+}
